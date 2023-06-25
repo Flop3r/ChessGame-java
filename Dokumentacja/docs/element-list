@@ -1,0 +1,9 @@
+GameEngine
+GameEngine.Board
+GameEngine.Moves
+GameEngine.Pieces
+GameEngine.Pieces.Black
+GameEngine.Pieces.White
+GameEngine.Utils
+Main
+Menu
