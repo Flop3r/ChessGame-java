@@ -1,27 +1,26 @@
-Author: Franciszek Przeliorz
+# Java Chess Implementation
 
-Project - Java Chess Implementation
+![Author: Franciszek Przeliorz](https://img.shields.io/badge/Author-Franciszek%20Przeliorz-blue)
 
-------------------------------
+This repository contains a Java chess game implementation. It includes source files, compiled files, and a JAR file for easy execution.
 
-The project aims to implement a chess game in the Java programming language. This repository contains source files, compiled files, and a JAR file.
+## Folder Structure
 
-Folder Structure:
+- **Compiled Files:** `/Project/Compiled Files`
+- **Source Files:** `/Project/Source Files/ChessGame/src/main/java`
+- **JAR File:** `/Project`
 
-Compiled Files: /Project/Compiled Files
+## Source Files
 
-Source Files (the entire project): /Project/Source Files/ChessGame/src/main/java
+The `/Project/Source Files/ChessGame/src/main/java` folder contains all the source files, including classes and other .java files that are part of the project.
 
-JAR File: /Project
+## Compiled Files
 
-------------------------------
+The `/Project/Compiled Files` folder houses the compiled files that can be run directly on the Java Virtual Machine (JVM).
 
-In the /Project/Source Files/ChessGame/src/main/java folder, you will find the source files, including classes and other .java files that are part of the project.
+## JAR File
 
-In the /Project/Compiled Files folder, you will find compiled files that can be run directly on the Java Virtual Machine (JVM).
+The sent .jar file is located in the `/Project` folder. It contains a compiled version of the project, making it easy to run on any machine with Java installed.
 
-The sent .jar file is located in the /Project folder, containing a compiled version of the project that can be easily run on any machine with Java installed.
+Feel free to explore this repository to learn more about the project.
 
-------------------------------
-
-Feel free to explore the report and files for more information about the project.
