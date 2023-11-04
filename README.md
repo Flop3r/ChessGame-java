@@ -24,3 +24,32 @@ The sent .jar file is located in the `/Project` folder. It contains a compiled v
 
 Feel free to explore this repository to learn more about the project.
 
+<hr>
+
+# 🇵🇱 Projekt - Implementacja Szachów w języku Java
+
+![Autor: Franciszek Przeliorz](https://img.shields.io/badge/Autor-Franciszek%20Przeliorz-blue)
+
+To repozytorium zawiera implementację gry w szachy w języku Java. Znajdziesz tu pliki źródłowe, skompilowane pliki oraz plik JAR do łatwego uruchamiania.
+
+## Struktura Katalogów
+
+- **Pliki skompilowane:** `/Projekt/Skompilowane Pliki`
+- **Pliki źródłowe:** `/Projekt/Pliki źródłowe/ChessGame/src/main/java`
+- **Plik JAR:** `/Projekt`
+
+## Pliki źródłowe
+
+W katalogu `/Projekt/Pliki źródłowe/ChessGame/src/main/java` znajdują się pliki źródłowe, w tym klasy i inne pliki .java, które są częścią projektu.
+
+## Pliki skompilowane
+
+W katalogu `/Projekt/Skompilowane Pliki` znajdują się pliki skompilowane, które można uruchomić bezpośrednio na maszynie wirtualnej Javy (JVM).
+
+## Plik JAR
+
+Wysłany plik .jar znajduje się w katalogu `/Projekt`. Zawiera skompilowaną wersję projektu, która może być łatwo uruchomiona na dowolnej maszynie z zainstalowaną Javą.
+
+Zapraszam do zapoznania się z tym repozytorium, aby dowiedzieć się więcej o projekcie.
+
+
